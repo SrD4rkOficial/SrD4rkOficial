@@ -30,4 +30,13 @@
 
 ---
 
+## Tools
+
+![kali](https://user-images.githubusercontent.com/60255690/121773961-4ee35480-cb77-11eb-8365-7ec6e5039738.png)
+![sublime_text](https://user-images.githubusercontent.com/60255690/121773962-4ee35480-cb77-11eb-86aa-4d914260266f.png)
+![mysql](https://user-images.githubusercontent.com/60255690/121773963-4f7beb00-cb77-11eb-9638-a093f5011c64.png)
+![vsc](https://user-images.githubusercontent.com/60255690/121773964-4f7beb00-cb77-11eb-9585-b6bf825f44dc.png)
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srd4rkoficial&layout=compact)](https://github.com/SrD4rkOficial)
