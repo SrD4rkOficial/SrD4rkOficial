@@ -22,7 +22,10 @@
 
 ## Languages
 
-Soon
+![python](https://user-images.githubusercontent.com/60255690/121773655-3e31df00-cb75-11eb-8a7c-b78340f51d0c.png)
+![htmlcss](https://user-images.githubusercontent.com/60255690/121773713-8ea93c80-cb75-11eb-9ca2-31cd9093823b.png)
+![c](https://user-images.githubusercontent.com/60255690/121773653-3d994880-cb75-11eb-98b1-d4f1c065b444.png)
+![asm](https://user-images.githubusercontent.com/60255690/121773656-3e31df00-cb75-11eb-98d9-ced502fc38c6.png)
 
 ---
 
