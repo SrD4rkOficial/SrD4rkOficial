@@ -9,7 +9,7 @@
 - I'm working currently working on a C project, a MySQL project and a Python project, a Website with Flask
 - I'm 15 years old
 #### Fun fact about me
-- _I started programming when I was 12 years old, on JavaScript for Discord Bots, and now I don't remember anything about it_
+- _I started programming when I was 11 years old, on JavaScript for Discord Bots, and now I don't remember anything about it_
 
 ---
 
