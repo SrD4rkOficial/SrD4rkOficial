@@ -39,4 +39,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srd4rkoficial&layout=compact)](https://github.com/SrD4rkOficial)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srd4rkoficial&langs_count=8&bg_color=373f51&title_color=c5715d&text_color=c5715d)](https://github.com/SrD4rkOficial)
