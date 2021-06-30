@@ -2,6 +2,10 @@
 
 ## About Me
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srd4rkoficial&langs_count=8&bg_color=373f51&title_color=c5715d&text_color=c5715d)](https://github.com/SrD4rkOficial)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=srd4rkoficial&amp;show_icons=true&amp;theme=calm&amp;include_all_commits=true&amp;count_private=true)](https://github.com/SrD4rkOficial)
+
 ---
 
 - I'm from __Portugal__
@@ -38,6 +42,3 @@
 ![vsc](https://user-images.githubusercontent.com/60255690/121773964-4f7beb00-cb77-11eb-9585-b6bf825f44dc.png)
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srd4rkoficial&langs_count=8&bg_color=373f51&title_color=c5715d&text_color=c5715d)](https://github.com/SrD4rkOficial)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=srd4rkoficial&amp;show_icons=true&amp;theme=calm&amp;include_all_commits=true&amp;count_private=true)](https://github.com/SrD4rkOficial)
