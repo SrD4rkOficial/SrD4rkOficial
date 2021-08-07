@@ -10,7 +10,7 @@
 
 - I'm from __Portugal__
 - I know __C__, __Python__, __HTML and CSS__, __SQL__, and the __basic of Assembly__
-- I'm working currently working on a C project, a MySQL project and a Python project, a Website with Flask
+- I'm currently working on a C project, a MySQL project and a Python project, a Website with Flask
 - I'm 15 years old
 #### Fun fact:
 - _I started programming when I was 11 years old, on JavaScript for Discord Bots, and now I don't remember anything about it_
