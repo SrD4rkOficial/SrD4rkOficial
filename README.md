@@ -1,4 +1,4 @@
-<h1 align="center">Everything you need to know about me</h1>
+
 
 <h2 align="center">About Me</h2>
 
